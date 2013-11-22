@@ -1,0 +1,4 @@
+Widget
+======
+
+MultiShip widget demo
