@@ -1,4 +1,6 @@
-Widget
+Корзинный виджет MultiShip (пример использования)
 ======
 
-MultiShip widget demo
+Описание примера и документация:
+
+https://github.com/MultiShip/Widget/wiki/Корзинный-виджет-MultiShip
